@@ -5,7 +5,7 @@
 * [Contents](#content)
 
 ## General Info
-Document Analyzer project is a personal project and a document analyzer implemented with C. This was created as an online software academy project. 
+Document Analyzer project is a personal project implemented with C. This was created as an online software academy project. 
 
 If you want to analyze the text in a file more closely, we need a more complex structure than an array of characters. Think of it as analyzing a multi-paragraph document, such as a report. We will want to know information such as the number of words, sentences, and paragraphs in the document. For this, I think it would be good to tokenize each word and store it in a nested structure like Tree.
 
